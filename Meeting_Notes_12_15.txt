@@ -1,0 +1,33 @@
+Action Items - Divide and Conquer
+
+Tim - Join station information with ridership data and divide the data by station id and 
+save as feather files.
+
+Mujtaba - Convert weather data from long to wide format
+ 
+Nikita - Clean holiday date and engineer features for them
+ 
+Nikita - Feature Engineering
+ 	- is holiday column 
+ 		- calculate leading and lagging indicators as well
+ 	- month, day, and year categorical variables
+
+Tim - Perform statistical tests to confirm there is a relationship with scipy and confirm the 
+p-value is statistically significant
+
+ - Merge engineered features into a single dataset
+Tim - Create a minimum model 
+
+Mujtaba - Setup meeting for Tuesday to go over slide deck and how we are going to divide
+up the presentation (schedule for one hour)
+
+---
+Determine what models we will use <- Complete, list below
+ 
+Dates we are targeting - 2017 -> 2024
+
+Models
+- Ridge Linear Regression - baseline model - Tim
+- Random Forest Regressor - Tim 
+- SVM with Linear kernel - Mujtaba
+- SVM with RBF kernel - Nikita
